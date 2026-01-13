@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm @blanchard789
-- 🔭 I’m a student currently finishing up my Computer Science Degree
+- 🔭 I’m a student finishing up my Computer Science Degree
 - 🌱 I’m currently learning Embedded Programming, Rust, and Web-Dev
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: https://blanchard789.github.io/
